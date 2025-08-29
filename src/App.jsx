@@ -8,6 +8,7 @@ import Contact from './components/Contact'
 import Footer from './components/Footer'
 import ReactLenis from 'lenis/react'
 import Education from './components/Education'
+import WorkExp from './components/WorkExp'
 
 const App = () => {
   return (
@@ -16,6 +17,7 @@ const App = () => {
       <main>
         <Hero/>
         <About/>
+        <WorkExp/>
         <Education/>
         <Skill/>
         <Work/>

@@ -20,7 +20,7 @@ const Education = () => {
                         2023-2027
                     </div>
                     <div className="text-zinc-400">
-                        CGPA - 8.73 (till 3rd sem)
+                        CGPA - 8.76 (till 4th sem)
                     </div>
                 </div>
                 <div className="">
