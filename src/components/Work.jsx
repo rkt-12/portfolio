@@ -22,9 +22,9 @@ const works = [
   },
   {
     imgSrc: '/images/p4.png',
-    title: 'E-Learn',
-    tags: ['MERN', 'SaaS','Rest API'],
-    projectLink: 'https://e-learn-2024.vercel.app/'
+    title: 'Formy-ai',
+    tags: ['NextJS', 'TypeScript','PostgeSQL','Gemini API'],
+    projectLink: 'https://formy-ai-xi.vercel.app/'
   },
   {
     imgSrc: '/images/p5.png',
