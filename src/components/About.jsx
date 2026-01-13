@@ -17,7 +17,7 @@ const About = () => {
         <div className="container">
             <div className='bg-zinc-800/50 p-7 rounded-2xl md:p-12'>
                 <p className="text-zinc-300 mb-4 md:mb-8 md:text-xl md:max-w-[60ch]">
-                    Hii! I&apos;m Raunak, currently I am in BIT Mesra pursuing Bachelor of Technology in Computer Science and Technology in my 2nd year maintaining a CGPA of 8.73. I'm a passionate builder of digital experiences with a love for problem-solving and modern web technologies. From dynamic frontends to efficient backends, I design and develop complete solutions—powered by curiosity, precision, and a drive to create meaningful tech. I also have interest in solving DSA problems and I've solved more than 800 of them as of now.
+                    Hii! I&apos;m Raunak, currently I am in BIT Mesra pursuing Bachelor of Technology in Computer Science and Technology in my 3rd year maintaining a CGPA of 8.71. I'm a passionate builder of digital experiences with a love for problem-solving and modern web technologies. From dynamic frontends to efficient backends, I design and develop complete solutions—powered by curiosity, precision, and a drive to create meaningful tech. I also have interest in solving DSA problems and I've solved more than 800 of them as of now.
                 </p>
                 <div className="flex flex-wrap items-center gap-4 md:gap-7">
                     {aboutItems.map(({label,number},key)=>(

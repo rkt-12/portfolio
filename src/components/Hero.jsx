@@ -23,7 +23,7 @@ const Hero = () => {
                     Tech Enthusiast. Web Developer. Code Crafter. Turning ideas into interactive experiences.
                 </h2>
                 <div className="flex items-center gap-3">
-                    <button className='bg-sky-400 text-zinc-900 p-3 rounded-2xl font-semibold cursor-pointer' onClick={() => window.open("https://drive.google.com/file/d/1jT1CNVVz4slIU3ce_i3KSwTzg-RkNrnn/view?usp=sharing", "_blank")}>Download CV &#9698;</button>
+                    <button className='bg-sky-400 text-zinc-900 p-3 rounded-2xl font-semibold cursor-pointer' onClick={() => window.open("https://drive.google.com/file/d/1GhcX8on1SVLXE7Uffd-yKT4BoypBixE5/view?usp=sharing", "_blank")}>Download CV &#9698;</button>
 
                     <button className='bg-sky-400 text-zinc-900 p-3 rounded-2xl font-semibold'>Scroll Down &#9660;</button>
                 </div>

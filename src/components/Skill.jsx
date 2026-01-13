@@ -82,6 +82,21 @@ const skillItem = [
     label: 'Linux',
     desc: 'Operating System'
   },
+  {
+    imgSrc: '/images/java.webp',
+    label: 'Java',
+    desc: 'Programming Language'
+  },
+  {
+    imgSrc: '/images/spring.png',
+    label: 'Spring Boot',
+    desc: 'Java Framework'
+  },
+  {
+    imgSrc: '/images/typescript.png',
+    label: 'TypeScript',
+    desc: 'Programming Language'
+  },
 ];
 
 const Skill = () => {
